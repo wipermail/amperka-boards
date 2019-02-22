@@ -1,0 +1,32 @@
+{
+  "packages": [
+    {
+      "name": "amperka-iskra",
+      "maintainer": "Amperka",
+      "websiteURL": "http://amperka.ru/",
+      "email": "sail@amperka.ru",
+
+      "platforms": [
+        {
+          "name": "Amperka Iskra Boards",
+          "architecture": "avr",
+          "version": "0.0.1",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/amperka/iskra-boards"
+          },
+          "url": "https://github.com/amperka/iskra-boards/releases/download/v0.0.1/iskra-0.0.1.zip",
+          "archiveFileName": "iskra-0.0.1.zip",
+          "checksum": "SHA-256:3c45e0277aa8fe9091cb43b53fa613441039af86fc958fe8166afcc9b2ac7581",
+          "size": "53894",
+          "boards": [
+            {"name": "Amperka Iskra Nano PB"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+
+      "tools": []
+    }
+  ]
+}
