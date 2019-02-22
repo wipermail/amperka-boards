@@ -2,6 +2,6 @@
 
 Version: 0.0.1<br>
 
-TODO:
+add to arduino IDE:
 
-    **`https://raw.githubusercontent.com/amperka/iskra-boards/master/package_amperka_index.json`**
+https://raw.githubusercontent.com/amperka/iskra-boards/master/package_amperka_index.json
