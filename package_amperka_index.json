@@ -8,7 +8,7 @@
 
       "platforms": [
         {
-          "name": "Amperka Iskra Boards",
+          "name": "Amperka Boards",
           "architecture": "avr",
           "version": "0.0.1",
           "category": "Contributed",
