@@ -5,7 +5,6 @@
       "maintainer": "Amperka",
       "websiteURL": "http://amperka.ru/",
       "email": "sail@amperka.ru",
-
       "platforms": [
         {
           "name": "Amperka Boards",
@@ -20,12 +19,13 @@
           "checksum": "SHA-256:3c45e0277aa8fe9091cb43b53fa613441039af86fc958fe8166afcc9b2ac7581",
           "size": "53894",
           "boards": [
-            {"name": "Amperka Iskra Nano PB"}
+            {
+              "name": "Amperka Iskra Nano PB"
+            }
           ],
           "toolsDependencies": []
         }
       ],
-
       "tools": []
     }
   ]
