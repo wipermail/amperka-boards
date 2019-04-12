@@ -15,7 +15,7 @@ iskra-nano-pro.bootloader.lock_bits=0xCF
 
 iskra-nano-pro.build.mcu=atmega328pb
 iskra-nano-pro.build.board=AVR_ISKRA_NANO_PRO
-iskra-nano-pro.build.extra_flags=-include "{runtime.platform.path}/variants/iskra-nano-pb/io_328pb.h"
+iskra-nano-pro.build.extra_flags=-include "{runtime.platform.path}/variants/iskra-nano-pro/io_328pb.h"
 iskra-nano-pro.build.core=arduino:arduino
 iskra-nano-pro.build.variant=iskra-nano-pro
 

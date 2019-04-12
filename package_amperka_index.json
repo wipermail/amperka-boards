@@ -46,8 +46,8 @@
           },
           "url": "https://github.com/amperka/amperka-boards/releases/download/v0.1.0/amperka-boards-0.1.0.zip",
           "archiveFileName": "amperka-boards-0.1.0.zip",
-          "checksum": "SHA-256:6149d1614421de983534d61de7eb03895b43d7bbc8361939b498b3b137e24efa",
-          "size": "53011",
+          "checksum": "SHA-256:e02855c39c2a4f2c4fbcaad0227e0557b740962a9a6fc15d6a34fd80c0dafe6c",
+          "size": "53010",
           "boards": [
             {
               "name": "Amperka Iskra Nano Pro"
