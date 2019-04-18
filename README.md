@@ -1,6 +1,6 @@
 # Amperka Software and Drivers
 
-Version: 0.1.0<br>
+Version: 0.1.1<br>
 
 add to arduino IDE:
 
