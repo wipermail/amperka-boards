@@ -1,13 +1,13 @@
 menu.version=Version
 
 iskra-nano-pro.name=Amperka Iskra Nano Pro
-iskra-nano-pro.upload.tool=arduino:avrdude
+iskra-nano-pro.upload.tool=avrdudecustom
 iskra-nano-pro.upload.protocol=arduino
 iskra-nano-pro.upload.mcu=atmega328pb
 iskra-nano-pro.upload.maximum_size=32256
 iskra-nano-pro.upload.maximum_data_size=2048
 
-iskra-nano-pro.bootloader.tool=arduino:avrdude
+iskra-nano-pro.bootloader.tool=avrdudecustom
 iskra-nano-pro.bootloader.low_fuses=0xFF
 iskra-nano-pro.bootloader.high_fuses=0xDE
 iskra-nano-pro.bootloader.unlock_bits=0xFF
